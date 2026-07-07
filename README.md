@@ -1,9 +1,9 @@
-# Jogja CCTV Viewer 🎥
+# CCTV Viewer
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![OpenCV Version](https://img.shields.io/badge/OpenCV-5.0%2B-green.svg)
 
-**Jogja CCTV Viewer** adalah sebuah skrip Python sederhana namun kuat yang digunakan untuk menampilkan *live streaming* CCTV publik milik Pemerintah Kota Yogyakarta (dari portal [https://cctv.jogjakota.go.id](https://cctv.jogjakota.go.id)). Skrip ini menggunakan pustaka **OpenCV** untuk menangkap dan merender *stream* berformat `.m3u8` langsung ke dalam sebuah jendela aplikasi (*window*).
+**CCTV Viewer** adalah sebuah skrip Python sederhana namun kuat yang digunakan untuk menampilkan *live streaming* CCTV publik milik Pemerintah Kota Yogyakarta (dari portal [https://cctv.jogjakota.go.id](https://cctv.jogjakota.go.id)). Skrip ini menggunakan pustaka **OpenCV** untuk menangkap dan merender *stream* berformat `.m3u8` langsung ke dalam sebuah jendela aplikasi (*window*).
 
 ---
 
